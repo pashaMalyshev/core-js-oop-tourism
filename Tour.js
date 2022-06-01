@@ -1,6 +1,7 @@
 class Tour {
-  constructor() {
-
+  constructor(country, price) {
+    this.country = country
+    this.price = price
   }
 }
 
